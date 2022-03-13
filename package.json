@@ -1,0 +1,25 @@
+{
+ "name": "com.woolog.wave-renderer",
+  "version": "1.0.0",
+  "displayName": "Wave Renderer",
+  "description": "This is a wave renderer UI element",
+  "unity": "2021.1.1",
+  "unityRelease": "0f1",
+  "author": {
+    "name": "Iohannes Mboumba",
+    "email": "mboumba.iohannes@gmail.com"
+  },
+  "samples": [
+       {
+          "displayName": "Sample scene",
+          "description": "Contains sample scene for testing",
+          "path": "Samples~/Scene"
+       },
+      {
+          "displayName": "Prefabs",
+          "description": "Contains prefabs",
+          "path": "Samples~/Prefab"
+      }
+  ]
+}
+ 
