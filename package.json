@@ -13,13 +13,8 @@
        {
           "displayName": "Sample scene",
           "description": "Contains sample scene for testing",
-          "path": "Samples~/Scene"
-       },
-      {
-          "displayName": "Prefabs",
-          "description": "Contains prefabs",
-          "path": "Samples~/Prefab"
-      }
+          "path": "Samples~/Example"
+       }
   ]
 }
  
